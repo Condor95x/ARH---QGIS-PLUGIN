@@ -1,0 +1,9 @@
+[general]
+name= ARH Pluging 
+description=Pluging developed for internal use at AgroFOOD Research HUB from the University of Brescia
+version=0.1
+qgisMinimumVersion=3.34
+author=Andrés Sanchez Morchio
+email=andres.sanchezmorchio0508@gmail.com
+category=Analysis
+icon=Logo/icon.png
